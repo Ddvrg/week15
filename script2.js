@@ -1,5 +1,5 @@
 let year = prompt("Enter year =");//string
-let year = pareInt("zodiac");//Convert String to Integer(number) 
+let year = parseInt("zodiac");//Convert String to Integer(number) 
 switch(year)
 {
     case 1972: case 1984: case 1996: case 2008: case 2020:

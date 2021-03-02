@@ -1,5 +1,5 @@
 let year = prompt("Enter year =");//string
-let year = pareInt("zodiac");//Convert String to Integer(number) 
+let year = parseInt("zodiac");//Convert String to Integer(number) 
 function myZodiac(year,ily){
     switch(year)
     {
